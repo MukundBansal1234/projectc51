@@ -1,0 +1,28 @@
+.header *{
+    display:flex;
+    justify-content:space-between;
+   background-color: #a169e6;
+   padding:5px;
+   color:white;
+}
+h1,h3{
+    text-align:center;
+ 
+}
+.origami1 {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    
+
+}
+.origami2 {
+    padding:50px;
+    border: solid 2px white;
+    margin:50px;
+    background-color: red
+
+}
+.origami2 a {
+    padding:150px;
+}
